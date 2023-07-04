@@ -9,8 +9,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>Video Demonstration</h2>
 
 - ### [How to Deploy on-premises Active Directory within Azure Virtual Machines](https://drive.google.com/file/d/11CHLY2jd5xKqcplNmbpM1vO99dYDDjzH/view?usp=drive_link)
-- ### [Building Intuition with DNS](https://drive.google.com/file/d/1hh8iskP98lgcyR_fRVLUTXlAIvu7UoWn/view?usp=drive_link)
-- ### [Network File Shares and Permissions](https://drive.google.com/file/d/1V_4tRnOFsca0z34e6vLhDkQvt7F80qUj/view?usp=drive_link)
+
 
 <h2>Environments and Technologies Used</h2>
 
